@@ -1,4 +1,4 @@
-# Hi there, I'm Noah Crossman 👋
+# Hi there, I'm Noah 👋
 
 ### Full Stack Developer | Tech Enthusiast | Always Learning
 
@@ -64,13 +64,3 @@ I'm actively seeking software development opportunities and always excited to co
 
 [![Email](https://img.shields.io/badge/Email-noahc1%40hotmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noahc1@hotmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/noah-crossman/)
-
----
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=N-Crossman&color=blue&style=for-the-badge)
-
-⭐️ From [N-Crossman](https://github.com/N-Crossman)
-
-</div>
